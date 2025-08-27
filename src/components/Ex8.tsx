@@ -10,7 +10,7 @@ export default function Ex8() {
         }
     };
     return (
-        <div style={{ padding: 12, fontFamily: "Arial, sans-serif" }}>
+        <div style={{ padding: 12 }}>
         <h3>Chọn sở thích</h3>
         <label>
             <input type="checkbox" value="Đọc sách" onChange={handleChange} /> Đọc sách
